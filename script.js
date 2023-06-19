@@ -31,5 +31,5 @@ window.Square = Square;
 // const cc = new Rectangle(10,20)
 // console.log(cc.getArea())
 
-// const p = new Square(30,50)
+// const p = new Square(30)
 // console.log(p.getPerimeter());
